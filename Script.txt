@@ -1,0 +1,6 @@
+Hello everyone and welcome to my git course. If you want to learn how to manage your projects using git quickly and effectively, you’ve come to the right place. In this course, we will learn all of the essential git features and manage our own projects. 
+Afterwards, we will work with github, the world's leading software development platform and learn how to host and update our projects on there, as well as contribute to other repositories. This course is super focused, and will get you up and running with git in minutes. 
+If you want to learn git now, this course is for you.
+Hi, I’m Adam Eubanks, a veteran instructor with over 10,000 students.
+ When I first looked at git, I felt intimidated by the terminal and the memorization of commands. Luckily, I was able to overcome these challenges and I created this course to help others who felt as I did. If you are not fully satisfied with this course, udemy and I offer you a 30 day money back guarantee, so you have nothing to risk, but everything to gain from taking this course. Thank you so much for watching and I hope to see you soon!
+
