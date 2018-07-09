@@ -1,3 +1,9 @@
+dsadfsfdas
+
+
+
+
+
 Hello everyone and welcome to my git course. If you want to learn how to manage your projects using git quickly and effectively, you’ve come to the right place. In this course, we will learn all of the essential git features and manage our own projects. 
 Afterwards, we will work with github, the world's leading software development platform and learn how to host and update our projects on there, as well as contribute to other repositories. This course is super focused, and will get you up and running with git in minutes. 
 If you want to learn git now, this course is for you.
